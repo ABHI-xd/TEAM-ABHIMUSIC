@@ -28,7 +28,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINETWORK1/TEAM-ABHIMUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHI-xd/TEAM-ABHIMUSIC)
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ ⚙️
 
