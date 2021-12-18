@@ -25,17 +25,17 @@ Add me to your group and play music freely!**
                         "💬 Group", url="https://t.me/SNEHABHI_SERVER"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/ABHI_NETWORK1"
+                        "🔊 Channel", url="https://t.me/VEXERA_UPDATES"
                     )
                 ],[ 
                     InlineKeyboardButton(
                         "➕ Add To Your Group ➕", url="https://t.me/SNEHU_IS_MINE")
                 ],[
                     InlineKeyboardButton(
-                        "💫𝙾𝚆𝙽𝙴𝚁 𝚀𝚄𝙴𝙴𝙽✨", url="HTTP://T.ME/ABHI_IS_MINE")
+                        "💫𝙾𝚆𝙽𝙴𝚁 𝚀𝚄𝙴𝙴𝙽✨", url="HTTP://T.ME/ABHI_IZ_MINE")
                 ],[
                     InlineKeyboardButton(
-                        "💫𝙾𝚆𝙽𝙴𝚁 𝙺𝙸𝙽𝙶✨", url="HTTP://T.ME/SNEHU_IS_MINE"
+                        "💫𝙾𝚆𝙽𝙴𝚁 𝙺𝙸𝙽𝙶✨", url="HTTP://T.ME/TOXIC_CYBER"
                     )]
                 ]
             ),
@@ -48,7 +48,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/ABHI_NETWORK1")
+                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/VEXERA_UPDATES")
                 ]
             ]
         )
